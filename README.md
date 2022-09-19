@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wendel Revilleza</h1>
-<h3 align="center">Aspiring Full Stack Web Developer from Philippines</h3>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
